@@ -1,1 +1,3 @@
-# VK_SRE_additional_task
+# VK_SRE Additional_task
+
+Дополнительное задание
